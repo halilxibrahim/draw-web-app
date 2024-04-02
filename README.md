@@ -2,7 +2,10 @@
 
 This project is a simple drawing application created using HTML, CSS, and JavaScript.
 
-![Application Screenshot](screenshot.png)
+https://github.com/halilxibrahim/draw-web-app/assets/54751699/b2b76a01-518c-488f-bf34-35d12d42bbf4
+
+
+
 
 ## How to Run
 
